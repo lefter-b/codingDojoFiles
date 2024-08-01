@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+
+<body>
+    <form action="">
+        <h1>Registration Form</h1>
+        <div>
+            <label for="fName">First Name:* </label>
+            <input type="text" name="fName">
+        </div>
+        <div>
+            <label for="lName">Last Name:* </label>
+            <input type="text" name="lName">
+        </div>
+        <div>
+            <label for="email">Email:* </label>
+            <input type="text" name="lName">
+        </div>
+        <div>
+            <label for="password">Password:* </label>
+            <input type="password" name="password">
+        </div>
+        <div>
+            <label for="confirmpassword">Confirm Password:* </label>
+            <input type="password" name="confirmpassword">
+        </div>
+        <label for="gender">Gender Identity: </label>
+        <div>
+            <input type="radio" name="gender">
+            <label for="gender">male</label>
+            <input type="radio" name="gender">
+            <label for="gender">female</label>
+            <input type="radio" name="gender">
+            <label for="gender">non-binary</label>
+            <input type="radio" name="gender">
+            <label for="gender">I would rather not say.</label>
+        </div>
+
+        <div>
+        <p>A short description here...</p>
+        <textarea name="description" cols="30" rows="10"></textarea>
+    </div>
+
+    <div>
+        <label for="favLanguage">Favorite Language: </label>
+        <select name="favLanguage" id="">
+            <option value="js">JS</option>
+            <option value="html">HTML</option>
+            <option value="css">CSS</option>
+        </select>
+    </div>
+
+    <div>
+        <input type="checkbox" name="recievePublicEmails">
+        <label for="reciev  ePublicEmails">Yes, I would like to recieve emails.</label>
+    </div>
+    
+        <button>Send</button>
+    </form>
+</body>
+
+</html>

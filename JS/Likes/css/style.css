@@ -1,0 +1,72 @@
+.nav{
+    color: white;
+    font-size: 30px;
+    background-color: black;
+    height: 50px;
+    width: 1000px;
+    margin-left: 160px;
+    margin-top: -30px;
+}
+.nav p{
+    position: relative;
+    margin-left: 20px;
+    top: 5px;
+}
+h1{
+    margin-left: 550px;
+}
+.wrapper{
+    width: 80%;
+    margin: auto;
+}
+.avatar{
+    height: 200px;
+    width: 150px;
+    border-style: solid;
+    margin-left: 160px;
+    justify-content: space-between;
+}
+img{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.avatar p{
+    color: skyblue;
+    text-decoration: underline;
+    margin-left: 30px;
+}
+.avatar h2{
+    margin-left: 20px;
+}
+.box{
+    border-style: solid;
+    height: 150px;
+    width: 450px;
+    margin-bottom: 20px;
+    
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+button{
+    background-color: orange;
+}
+span{
+    color: blue;
+    text-decoration: underline;
+}
+.likesNr{
+    color: black;
+    text-decoration: none;
+}
+
+.justifyEvently{
+    justify-content: space-evenly;
+}

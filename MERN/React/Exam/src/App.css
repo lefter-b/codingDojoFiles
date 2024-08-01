@@ -1,0 +1,71 @@
+.nav{
+  display: flex;
+  justify-content: space-between;
+}
+.pets{
+  font-size: 35px;
+}
+.add{
+  color: skyblue;
+  text-decoration: underline;
+}
+.table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 20px;
+  min-width: 400px;
+  border-style: solid ;
+  border-color: black;
+  width: 60%;
+  height: 50%;
+  
+}
+.table th, .table td{
+  padding: 12px 15px;
+}
+.de{
+  color: skyblue;
+  text-decoration: underline;
+}
+.nav1{
+  display: flex;
+  justify-content: space-between;
+}
+.add1{
+  color: skyblue;
+}
+
+.container{
+  display: flex;
+  margin-left: 10px;
+  height:400px;
+  width: 90%;
+  border: solid;
+}
+.Skills{
+  margin-left: 50px;
+}
+button{
+  margin-top: 20px;
+  background-color: skyblue;
+  width: 190px;
+  height: 80px;
+  color: white;
+  font-size: 22px;
+  width: 22%;
+}
+.img{
+  position: relative;
+  width: 25%;
+}
+
+.edit{
+  color:skyblue;
+  position: relative;
+  left:-30px;
+  text-decoration: underline;
+}
+.details{
+  color: skyblue;
+  text-decoration: underline;
+}

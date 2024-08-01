@@ -1,0 +1,91 @@
+.nav{
+    background-color: gray;
+    height: 50px;
+    padding: 10px 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.d-flex{
+ display: flex;
+}
+.alignItems{
+    align-items: center;
+}
+
+.justifyBetween{
+    justify-content: space-between;
+}
+.login{
+    background-color:skyblue;
+    color: white;
+}
+.like{
+    background-color: orange;
+}
+.title{
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    height: 200px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 100px;
+    padding: 20px;
+}
+span {
+    color: blue;
+    text-decoration: underline;
+}
+.title h3{
+    padding-left: 20px;
+}
+.wrapper{
+    width: 80%;
+    margin: auto;
+}
+main{
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    height: 200px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 100px;
+    padding: 20px;
+}
+.nin h3{
+    padding-left: 40px;
+    margin-top: -100px;
+    margin-left: 70px;
+}
+.d-flex{
+    display: flex;
+}
+
+.Dojo {
+    color:black;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    height: 150px;
+    width: 355px;
+    padding: 10px;
+    margin-left: 600px;
+    margin-top: -520px;
+}
+.Dojo h1{
+    margin-top: -10px;
+    margin: auto;
+    padding: px;
+}
+button1 {
+    color:black;
+    background-color:green;
+    border-style: solid;
+    position:  relative;
+    margin-top: 115px;
+    margin-right: 20px;
+    width: 350px;
+    height: 30px;
+    margin-left: -20px;
+}

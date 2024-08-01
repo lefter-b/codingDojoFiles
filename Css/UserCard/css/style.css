@@ -1,0 +1,44 @@
+.boxheader{
+    height: 75px;
+    width: 506px;
+    background-color: skyblue;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+.greyborder{
+    height: 200px;
+    width: 500px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 3px;
+    position: relative;
+    padding-bottom: 0px;
+    border-top: 1px;
+    margin-top: -50px;
+    margin-left: 400px;
+}
+img{
+    border-radius: 50%;
+    margin-left: 1vw;
+    margin-top: 30px;   
+}
+h{
+    margin-top: 40px;
+    margin-left: 13px;
+}
+p{
+    margin-left: 13px;
+    margin-bottom: 0px;
+}
+p1{
+    margin-left: 13px;
+}
+.editprofile{
+    margin-top: -20px;
+    text-decoration: underline;
+    color:blue;
+}
+.Seattle{
+    margin-top: -20px;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Clicker</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="wrapper">
+    <nav class ="nav d-flex alignItems justifyBetween">
+        <h1>Dojonary</h1>
+        <input class="searchInput" type="text" name="search" id="" placeholder="Search">
+        <button class="login" onclick="changeLoginToLOgout(this)" id="loginBtn">Login</button>
+         
+    </nav>
+    <div class="title d-flex alignItems">
+        <div>
+        <h1>ninja</h1>
+        <h2>noun</h2>
+        <p>Plural:ninjas</p>
+        <button class="like" onclick="alert('This ninja was liked.')">13 likes</button>
+        </div>
+        <h3>A practitioner skilled 
+            in the <span>Japanese</span> art of <span>ninjutsu</span>   
+        </h3>
+    </div>
+    <main class="nin">
+        <h1>ninja</h1>  
+        <h2>noun</h2>
+        <p>Plural:ninjas</p>
+        <button class="like" onclick="alert('This ninja was liked.')">37 likes</button>
+        <h3>A <span>programmer</span> who breaks 
+            down problems 
+            with <span>zen</span>-like focus
+        </h3>
+    </main>
+    <side  class="Dojo d-flex">
+        <h1>Dojonary is defined by YOU</h1>
+        <button1 id="addDefinitionBtn" onclick="remove(this)">Add Definition</button1>
+    </side>
+</div>
+<script src="./script.js"></script>
+</body>
+</html>

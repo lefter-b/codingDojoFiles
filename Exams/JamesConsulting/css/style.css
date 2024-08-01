@@ -1,0 +1,183 @@
+body{
+    background-color: #062134;
+}
+h{
+    color:white;
+    font-size: 40px;
+    margin-left: 40px;
+    position: relative;
+    top: 20px;
+}
+span{
+    color:skyblue;
+}
+.line{
+    color: white;
+}
+ul{
+    color:white;
+    list-style-type: none;
+}
+.links{
+    display: flex;
+    float: right;
+    position: relative;
+    top: -30px;
+    gap: 70px;
+    font-size: 20px;
+    right: -600px;
+}
+.container{
+    border: 2px solid white;
+    height: 1000px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+img{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 1250px;
+    height: 300px;
+}
+.col{
+    background-color: #1468a8;
+    width: 400px;
+    margin-top: 20px;
+}
+.content p{
+    color: white;
+    width: 80%;
+}
+.colWrap{
+    display: flex;
+    justify-content: space-evenly;
+}
+.col img{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+
+.col h1,h2{
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+    margin-left: 85px;
+    margin-top:-60px;
+}
+.col h{
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+    margin-left: 5px;
+    top: -20px;
+}
+.content p{
+    color: white;
+    width: 80%;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+button{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+    background-color: skyblue;
+    border: none;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.content p1{
+    margin-left: -10px;
+    position: relative;
+    margin-top: 20px;
+}
+.world h3{
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.yourworld img{
+    width: 430px;
+    height: 220px;
+    margin-top: -10px;
+}
+.ourgoal{
+    flex: 1;
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.d-flex{
+    display: flex;
+    flex: 1;
+}
+.ourgoal p, p3, p4{
+    font-size: 17px;
+    position: relative;
+    float: left;
+    width: 50%;
+    color: black;
+}
+.ourgoal p3{
+    margin-left: -410px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.ourgoal p4{
+    margin-left: -410px;
+    margin-top: 180px;
+}
+.ourgoal p5{
+    color: #1468a8;
+    margin-left: -410px;
+    position: relative;
+    top: 210px;
+    font-size: 20px;
+}
+.testimonial{
+    color: black;
+    font-size: 20px;
+    float: right;
+    margin-top: -290px;
+    margin-right: 280px;
+}
+
+.testimonial h4{
+    display: flex;
+    float: right;
+    margin-top: 20px;
+    margin-right: -20px;
+}
+.testimonial img{
+    position: absolute;
+    width: 31%;
+    height: 40%;
+    float: right;
+    margin-top: 50px;
+    margin-left: -20px;
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+    color: blue;
+    background-color: skyblue;
+    gap: 50px;
+    width: 1296px;
+    margin-top: 3px;
+    margin-left: 20px;
+}
+.foot p1{
+    color: rgb(107, 107, 241);
+    position: relative;
+    top:15px;
+    font-size: 15px;
+}
+

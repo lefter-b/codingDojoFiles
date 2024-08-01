@@ -1,0 +1,28 @@
+h1{
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+
+span{
+    color: aqua;
+}
+
+h2{
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10px;
+}
+
+a{
+    color: blueviolet;
+    background-color: lightblue;
+    width: 100%;
+    float: right;
+    text-align: right;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}

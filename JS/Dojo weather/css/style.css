@@ -1,0 +1,75 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: skyblue;
+    color: white;
+    margin-top: -8px;
+}
+.sanjose{
+    display: flex;
+    justify-content: space-around;
+    border-bottom-style: solid;
+    border-bottom-width: -50px;
+}
+.sanjose p{
+    margin-top: 40px;
+}    
+.today{
+    background-color: grey;
+    width: 11%;
+    align-items: center;
+
+}
+.today img{
+    border-radius: 100px;
+}
+.celcius{
+    display: flex;
+    justify-content: space-around;
+}
+.celcius h3{
+    color: red;
+}
+.celcius h4{
+    color: skyblue;
+}
+.col {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+select{
+    display: flex;
+    height: 30px;
+    margin-top: 40px;
+}
+.cities {
+    color: white;
+    display: flex;
+    font-size: 20px;
+}
+.cities p{
+    margin: 40px;
+}
+#consentContent{
+    border-style: solid;
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 1000px;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+#consentHeader h1{
+    font-size: 17px;
+}
+#consentHeader span{
+    color: blue;
+    text-decoration: underline;
+}
+.consentButton {
+    background-color: skyblue;
+}
